@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "name": "Oral Exams",
+        "info": "An assessment of your oral health. Accurate early diagnostics can help prevent and successfully treat dental disease.",
+        "description": "Each exam takes 10-15 minutes, including intra-oral, extra-oral, radiological, and advanced 3D scan evaluations. You’ll be screened for tooth and gum disease and oral cancer. X-rays help us detect hidden cavities, hard buildups, bone loss, infection, and any other pathology. 3D oral scans reveal your tooth alignment and bite stability.",
+        "img": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 1,
+        "name": "Teeth Cleaning",
+        "info": "Professional teeth cleaning. Effectively removes hardened plaque that even regular brushing and flossing can’t get rid of.",
+        "description": "Teeth cleaning takes about 30 minutes per session, depending on how well you brush your teeth at home and how regularly you visit for cleanings. Our dental hygienists will use a tiny vibrating tip to loosen and rinse off hard plaque, then use a scraper instrument to pick off remaining plaque and ensure the tooth is entirely clean. Finally, we’ll polish your teeth with fluoride toothpaste.",
+        "img": "https://images.unsplash.com/photo-1562332328-13fe756de51a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Cavity Fillings",
+        "info": "Restores tooth defects with toothlike composite resin materials.",
+        "description": "This procedure takes about 40-60 minutes. We will numb the tooth, clean out the diseased portion, and replace that portion with a tooth-colored material. Finally, we’ll make last adjustments to make sure your tooth looks and feels natural. Numbing usually wears off in about 2 hours, and you can eat or drink immediately after numbing wears off.",
+        "img": "https://images.unsplash.com/photo-1619236233405-bb5d430f0620?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Whitening",
+        "info": "Professional whitening lightens the color of your teeth by a few shades using professional strength whitening products, like the Phillips Zoom light.",
+        "img": "https://images.unsplash.com/photo-1620775997990-ee3c25938b4c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "description": "Whitening takes 45-90 minutes, depending on your initial tooth color. Darker teeth need more time to become a brighter white.  After thorough isolation of your soft tissues and gums, we apply a high concentration whitening gel to your teeth for 2-4 sessions, 15 minutes each. For best results, the gel is activated with a specially designed Phillips Zoom blue light. Expect to see dramatic changes in less than an hour. This procedure will reveal your brightest shade, with results unique to you. Whitening usually lasts for about 3-5 years, depending on diet and oral hygiene."
+    },
+    {
+        "id": 4,
+        "name": "Painless Root Canal Therapy",
+        "info": "Our painless root canal therapy eliminates infection from inside of your tooth and permanently seals the tooth to prevent reentry of infection.",
+        "description": "Root canal therapy is a painless but lengthy procedure. It may take 2-3 visits, each 1-3 hours, to complete the full treatment. Mild tooth soreness is expected following each visit, and subsides after just a few days of healing.",
+        "img": "https://images.unsplash.com/photo-1581584731241-c134a1afe9a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Minimally Invasive Implants",
+        "info": "Our minimally invasive implants replace a missing tooth, first by placing a titanium screw in the bone, then attaching a porcelain tooth to the screw.",
+        "description": "During the first visit, we will take an intra-oral scan and give you a referral for a 3D bone scan. Once we confirm that you are a good candidate for this minimally invasive surgery, we visualize your bone and determine the optimal placement for your implant. We then print a guide that precisely directs the implant through the gum without any surgical cuts or sutures. You will experience zero pain or swelling once the numbing wears off. In 3-5 months, the implant will be ready to be restored with a porcelain crown.",
+        "img": "https://images.unsplash.com/photo-1609918438269-9a4c5f8fe3a4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Crowns and Veneers",
+        "info": "Our crowns and veneers are highly esthetic, long-lasting porcelain or zirconia restorations made using 3D scanning, designing, and printing technology.",
+        "description": "This procedure consists of 3 parts, all performed in one day. Part 1 takes about 60-90 minutes, and involves removing old/broken tooth restorations and preparing the tooth for a new restoration. Part 2 takes about 60-90 minutes, and consists of designing and fabricating your new tooth. You are welcome to take a break, or stay and observe the creation of your new tooth. Part 3 takes about 40-60 minutes. We fit, cement, and make final adjustments to the new restoration. Some gum irritation is expected and will resolve itself in a few days with good oral hygiene",
+        "img": "https://images.unsplash.com/photo-1620775997378-d91fd61c7dd1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Gum Care",
+        "info": "Our advanced cleaning procedures, including laser gum rejuvenation, help eliminate bacterial infection from deep, hard-to-reach areas of your teeth.",
+        "description": "Our trained anesthesiologists will make you comfortable and monitor your condition as you undergo gum treatment. This procedure ensures complete removal of bacterial plaque and deep hard buildup. Your gums will be sore for a day or two following the gum treatment. Resume brushing and flossing immediately to promote faster healing.",
+        "img": "https://images.unsplash.com/photo-1619987614890-4797e713fb03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 8,
+        "name": "Emergencies",
+        "info": "If you are experiencing any pain or discomfort in the orofacial region, we encourage you to make an emergency appointment as soon as possible.",
+        "description": "We will ask you to describe your discomfort, do an intra- and extra-oral exam focused on the problem area, take some x-rays and photos to help you understand what is happening in your mouth, and present you with different solutions.",
+        "img": "https://images.unsplash.com/photo-1602932213623-cc17e9541bb4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    }
+]

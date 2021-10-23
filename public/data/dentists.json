@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Dr. Roland Machel, DDS",
+        "email": "rmachel2@jigsy.com",
+        "info": "Dr. Machel established Lakeshore Family Dental, PC in 1999. He completed a Bachelor of Science in Biology at Indiana University, Bloomington in 1987 and his Doctor of Dental Surgery at Indiana University School of Dentistry, Indianapolis in 1991. As a member of the American Dental Association, the Academy of General Dentistry, and the Indiana Dental Association Dr. Noreika has actively kept up with continuing education and the ever increasing fast pace of technology and dental field developments.",
+        "specialization": "Founder & General Dentist",
+        "image": "https://image.freepik.com/free-photo/stomatologist-doctor-explaining-proper-dental-hygiene-patient-holding-sample-human-jaw_158595-7678.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Dr. Claybourne Morin, DDS",
+        "email": "cmorin1@weibo.com",
+        "info": "Dr. Morin knew from the age of 10 that she wanted to be a dentist. She remembers having a bad experience at the dentist as a very young child that left her especially fearful. She was then referred to a pediatric dentist who was sensitive to her fears and made her experience a positive one. That negative experience has motivated Dr. Haughtington to create a caring and compassionate experience for each of her patients.",
+        "specialization": "General Dentist",
+        "image": "https://image.freepik.com/free-photo/beautiful-dentist-working-dental-clinic_1157-28563.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Michal Motion, DDS",
+        "email": "mmotion3@fema.gov",
+        "specialization": "General Dentist",
+        "info": "A Michigan City native, Dr. Motion is thrilled to be serving his community and inspiring new reasons to smile here at Edgewood Dental! One of his favorite parts of being a dentist is getting to meet new people with interesting, unique stories every day. If you’re interested in learning more about him, just keep reading below.",
+        "image": "https://image.freepik.com/free-photo/dental-doctor-standing-clinic_1303-26408.jpg"
+    }
+]

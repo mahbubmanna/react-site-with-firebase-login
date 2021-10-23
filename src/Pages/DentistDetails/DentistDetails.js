@@ -16,7 +16,7 @@ const DentistDetails = () => {
 
     const { name, email, info, specialization, image } = dentist;
     return (
-        <div>
+        <div className="mt-5">
             <Container>
                 <Row className="justify-content-center">
                     <Col xs={12} md={10} lg={8}>

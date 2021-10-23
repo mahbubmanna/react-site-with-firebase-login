@@ -18,7 +18,7 @@ const ServiceDetails = () => {
 
 
     return (
-        <div>
+        <div className="mt-5">
             <Container>
                 <Row className="justify-content-center">
                     <Col xs={10} md={8} lg={6}>
